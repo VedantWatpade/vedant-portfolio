@@ -24,8 +24,7 @@ The goal of this portfolio is not just to showcase projects, but to demonstrate 
 > **Note:**  
 > The source code for this portfolio is intentionally kept private.
 
-## 📸 Preview
-(Add screenshots or a short GIF walkthrough here)
+
 
 ## 📬 Contact
 Feel free to connect with me on LinkedIn or reach out via the contact form on the portfolio.
