@@ -29,4 +29,4 @@ The goal of this portfolio is not just to showcase projects, but to demonstrate 
 ## 📬 Contact
 Feel free to connect with me on LinkedIn or reach out via the contact form on the portfolio.
 
-© 2025 Vedant Dnyaneshwar Watpade. All rights reserved.
+© 2026 Vedant Dnyaneshwar Watpade. All rights reserved.
